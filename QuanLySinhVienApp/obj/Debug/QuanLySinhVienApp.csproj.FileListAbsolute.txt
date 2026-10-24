@@ -1,0 +1,9 @@
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\bin\Debug\QuanLySinhVienApp.exe.config
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\bin\Debug\QuanLySinhVienApp.exe
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\bin\Debug\QuanLySinhVienApp.pdb
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\obj\Debug\QuanLySinhVienApp.csproj.AssemblyReference.cache
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\obj\Debug\QuanLySinhVienApp.Properties.Resources.resources
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\obj\Debug\QuanLySinhVienApp.csproj.GenerateResource.cache
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\obj\Debug\QuanLySinhVienApp.csproj.CoreCompileInputs.cache
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\obj\Debug\QuanLySinhVienApp.exe
+D:\Learning System\C#\QuanLySinhVienApp\QuanLySinhVienApp\obj\Debug\QuanLySinhVienApp.pdb

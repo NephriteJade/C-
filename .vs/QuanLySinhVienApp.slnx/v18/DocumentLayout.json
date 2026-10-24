@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning System\\C#\\QuanLySinhVienApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4E92F0-86FF-4DCB-9ABF-9D0FCE6F7E7D}|QuanLySinhVienApp\\QuanLySinhVienApp.csproj|D:\\Learning System\\C#\\QuanLySinhVienApp\\quanlysinhvienapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE4E92F0-86FF-4DCB-9ABF-9D0FCE6F7E7D}|QuanLySinhVienApp\\QuanLySinhVienApp.csproj|solutionrelative:quanlysinhvienapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4E92F0-86FF-4DCB-9ABF-9D0FCE6F7E7D}|QuanLySinhVienApp\\QuanLySinhVienApp.csproj|d:\\learning system\\c#\\quanlysinhvienapp\\quanlysinhvienapp\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4E92F0-86FF-4DCB-9ABF-9D0FCE6F7E7D}|QuanLySinhVienApp\\QuanLySinhVienApp.csproj|solutionrelative:quanlysinhvienapp\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE4E92F0-86FF-4DCB-9ABF-9D0FCE6F7E7D}|QuanLySinhVienApp\\QuanLySinhVienApp.csproj|D:\\Learning System\\C#\\QuanLySinhVienApp\\quanlysinhvienapp\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE4E92F0-86FF-4DCB-9ABF-9D0FCE6F7E7D}|QuanLySinhVienApp\\QuanLySinhVienApp.csproj|solutionrelative:quanlysinhvienapp\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Learning System\\C#\\QuanLySinhVienApp\\QuanLySinhVienApp\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienApp\\Models\\SinhVien.cs",
+              "ToolTip": "D:\\Learning System\\C#\\QuanLySinhVienApp\\QuanLySinhVienApp\\Models\\SinhVien.cs",
+              "RelativeToolTip": "QuanLySinhVienApp\\Models\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:11:40.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LopHoc.cs",
+              "DocumentMoniker": "D:\\Learning System\\C#\\QuanLySinhVienApp\\QuanLySinhVienApp\\Models\\LopHoc.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienApp\\Models\\LopHoc.cs",
+              "ToolTip": "D:\\Learning System\\C#\\QuanLySinhVienApp\\QuanLySinhVienApp\\Models\\LopHoc.cs",
+              "RelativeToolTip": "QuanLySinhVienApp\\Models\\LopHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:11:27.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Learning System\\C#\\QuanLySinhVienApp\\QuanLySinhVienApp\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVienApp\\Form1.cs",
+              "ToolTip": "D:\\Learning System\\C#\\QuanLySinhVienApp\\QuanLySinhVienApp\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLySinhVienApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:10:17.191Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
