@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QuanLySach.BUS/QuanLySach.BUS.csproj" Id="043ff97a-0cb5-4698-aa8a-a3a516f5f85e" />
+  <Project Path="QuanLySach.DAL/QuanLySach.DAL.csproj" Id="52aa21f2-40fc-46d6-b271-45642a1139e5" />
+  <Project Path="QuanLySach.GUI/QuanLySach.GUI.csproj" Id="7661b7ac-e829-48dd-bbd9-94bc1f4a8f9c" />
+</Solution>

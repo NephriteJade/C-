@@ -1,0 +1,55 @@
+﻿using System;
+using System.Collections.Generic;
+using QuanLySach.DAL;
+
+namespace QuanLySach.BUS
+{
+    public class SachBUS
+    {
+        private readonly SachDAL _sachDAL = new SachDAL();
+
+        public List<Sach> GetAll() => _sachDAL.GetAll();
+
+        public void ThemSach(Sach s)
+        {
+            KiemTraHopLe(s);
+            s.MaSach = s.MaSach.Trim();
+            if (_sachDAL.GetById(s.MaSach) != null)
+                throw new Exception("Mã sách đã tồn tại trong hệ thống!");
+            _sachDAL.Add(s);
+        }
+
+        public void SuaSach(Sach s)
+        {
+            KiemTraHopLe(s);
+            if (_sachDAL.GetById(s.MaSach) == null)
+                throw new Exception("Không tùm thấy mã sách cần sửa!");
+
+            _sachDAL.Update(s);
+        }
+
+        public void XoaSach(string maSach)
+        {
+            if (string.IsNullOrWhiteSpace(maSach))
+                throw new Exception("Mã sách không hợp lệ!");
+
+            _sachDAL.Delete(maSach.Trim());
+        }
+
+        private void KiemTraHopLe(Sach s)
+        {
+            if (string.IsNullOrWhiteSpace(s.MaSach))
+                throw new Exception("Mã sách không được để trống!");
+            if (string.IsNullOrWhiteSpace(s.TenSach))
+                throw new Exception("Tên sách không được để trống!");
+            if (string.IsNullOrWhiteSpace(s.MaLoai))
+                throw new Exception("Vui lòng chọn thể loại sách!");
+            if (s.NgayNhap.Date > DateTime.Now.Date)
+                throw new Exception("Ngày nhập không hợp lệ!");
+            if (s.SoLuong <= 0)
+                throw new Exception("Số lượng phải là số nguyên lớn hơn 0!");
+            if (s.DonGia <= 0)
+                throw new Exception("Đơn giá phải lớn hơn 0!");
+        }
+    }
+}
